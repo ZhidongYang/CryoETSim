@@ -1,4 +1,4 @@
-__author__ = 'Zhidong Yang'
+__author__ = 'Zhidong Yang and Antonio Martinez-Sanchez'
 
 import os
 import argparse
@@ -72,5 +72,6 @@ if __name__ == '__main__':
     angle = args.angle
     interval = args.interval
     main(directory=directory, output=output, angle=angle, interval=interval)
+
 
 # python crSim_tilt_simulator.py -d ./results_density/6z6u_with_membranes.mrc -o ./output_tilts -a 50 -i 3
