@@ -9,4 +9,5 @@ Please refer to the supplementary materials for step-by-step user guidance.
 
 
 ## Acknowledgement
-Thanks for 
+We sinceresly thank following work with their open-sourced code. Part of the code is modified from following work:
+A. Martinez-Sanchez, L. Lamm, M. Jasnin and H. Phelippeau, "Simulating the Cellular Context in Synthetic Datasets for Cryo-Electron Tomography," in IEEE Transactions on Medical Imaging, vol. 43, no. 11, pp. 3742-3754, Nov. 2024, doi: 10.1109/TMI.2024.3398401.
