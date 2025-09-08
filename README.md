@@ -8,7 +8,7 @@ We introduce CryoETSim, a simulation framework that integrates realistic biologi
 Please refer to the supplementary materials for step-by-step user guidance.
 
 ## 3 Example dataset
-The example dataset and detailed implementations of noise synthesizer will be available on a Google Drive Link.
+The example dataset and detailed implementations of noise synthesizer are available on [Google Drive](https://drive.google.com/drive/folders/1XZMMi38CWLYIUuG286Uy5SP7-BwvVXGq?usp=sharing).
 
 
 ## Acknowledgement
